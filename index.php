@@ -34,8 +34,8 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
                             href="#sistemas">Sistemas</a></li>
-                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
-                            href="#about">Sobre</a></li>
+                    <!-- <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
+                            href="#about">Sobre</a></li> -->
                     <!-- <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
                             href="#contact">Contact</a></li> -->
                 </ul>
@@ -57,7 +57,7 @@
             <!-- Cards for Nuvem -->
 
             <div class="row">
-               
+
                 <!-- <div class="col-md-6 col-lg-3 mb-5">
                     <div class="card h-100">
                         <div class="card-body text-center">
@@ -142,7 +142,7 @@
                     </div>
                 </div>
 
-                
+
                 <div class="col-md-6 col-lg-3 mb-5">
                     <div class="card h-100">
                         <div class="card-body text-center">
@@ -174,17 +174,17 @@
         </div>
     </section>
     <!-- About Section-->
-    <section class="page-section bg-primary text-white mb-0" id="about">
+    <!-- <section class="page-section bg-primary text-white mb-0" id="about">
         <div class="container">
-            <!-- About Section Heading-->
+
             <h2 class="page-section-heading text-center text-uppercase text-white">Sobre</h2>
-            <!-- Icon Divider-->
+
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
                 <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
-            <!-- About Section Content-->
+
             <div class="row">
                 <div class="col-lg-12 ms-auto">
                     <p class="lead">
@@ -193,15 +193,15 @@
                 </div>
 
             </div>
-            <!-- About Section Button-->
-            <!-- <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download me-2"></i>
-                        Free Download!
-                    </a>
-                </div> -->
+
+            <div class="text-center mt-4">
+                <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+                    <i class="fas fa-download me-2"></i>
+                    Free Download!
+                </a>
+            </div>
         </div>
-    </section>
+    </section> -->
     <!-- Contact Section-->
 
     <!-- Footer-->
