@@ -112,7 +112,7 @@
                     <div class="card h-100">
                         <div class="card-body text-center">
                             <h5 class="card-title">Convenio 2024</h5>
-                            <a target="_blank" href="https://setec.ufmt.br/tce/convenio24/login" class="btn btn-primary">Acessar</a>
+                            <a target="_blank" href="https://setec.ufmt.br/tce/convenio24" class="btn btn-primary">Acessar</a>
                         </div>
                     </div>
                 </div>
